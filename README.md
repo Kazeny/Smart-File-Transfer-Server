@@ -1,0 +1,2 @@
+# Smart-File-Transfer-Server
+TCP based client-server based project using SOCKETS in which multiple clients can access the server in order to send or retrieve files. Sockets establish the connection between the clients and server. Server accepts client’s connection requests and creates a virtual socket for the connected client only. Clients can upload or download the files (Audio, video, ppt, text, images, games etc) with additional encryption security.
